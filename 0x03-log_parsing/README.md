@@ -1,3 +1,5 @@
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
 # Requirements
 
 ## General
@@ -10,7 +12,7 @@
 - All your files must be executable
 - The length of your files would be tested using wc
 
-#Concepts Needed:
+# Concepts Needed:
 1. File I/O in Python:
 
 - Understand how to read from sys.stdin line by line.
