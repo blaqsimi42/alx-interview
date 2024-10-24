@@ -1,5 +1,7 @@
+"""
+beginning of code
+"""
 #!/usr/bin/python3
-
 import sys
 
 if __name__ == '__main__':
@@ -34,3 +36,8 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         print_stats(stats, filesize)
         raise
+	
+	"""
+	end of code
+
+	"""
