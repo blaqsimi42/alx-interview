@@ -5,12 +5,12 @@
 
 
 def validUTF8(data):
-    """ a method that determines if given data set
-    represents a valid UTF-8 encoding
+    """ Checks if a list of integers are valid UTF-8 codepoints.
     Args:
-        data (list): data to be valdated
+    data (list): data to be valdated
     Return:
-        boolean: True if valid, false if invlid
+    boolean: True if valid, false if invalid
+    
     """
     num_bytes = 0
 
